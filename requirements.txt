@@ -1,0 +1,11 @@
+opencv-python
+numpy
+pandas
+Pillow
+albumentations
+ml-collections
+scipy
+segmentation-models-pytorch
+matplotlib
+tqdm
+wandb
